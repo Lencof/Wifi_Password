@@ -4,7 +4,7 @@
 import random # use random
 
 x="Capo_125" # Your Wifi
-password="29121994598439058439058435894695846908549068895476895476896767548954906898" # Random Password
+password="29121994598439058439058435894695846908549068895476895476896767548954906898" # Random password, put a lot of numbers
 while x!=password:
   x=""
   while len(x)!=len(password):
