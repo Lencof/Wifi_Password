@@ -2,6 +2,8 @@
 # Wifi_Password Modified.py
 
 import random # use random
+import os # use os
+import sys # use sys
 
 x="Capo_125" # Your Wifi
 password="29121994598439058439058435894695846908549068895476895476896767548954906898" # Random password, put a lot of numbers
