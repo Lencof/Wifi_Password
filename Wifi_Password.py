@@ -2,7 +2,10 @@
 # Wifi_Password.py
 
 import os # use os 
+import sys # use sys
+import wifi # use wifi
 import random # use random
+
 
 x="Telnet_130" # Your Wifi
 password="29121998" # Random Password
