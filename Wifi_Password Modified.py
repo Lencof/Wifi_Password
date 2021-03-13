@@ -3,6 +3,7 @@
 
 import os # use os
 import sys # use sys
+import wifi # use wifi
 import random # use random
 
 x="Capo_125" # Your Wifi
