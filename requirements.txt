@@ -1,3 +1,4 @@
 wifi
+random
 webbrowser
 pyinstaller
