@@ -99,9 +99,9 @@ def menu():
         ssid = args.ssid
         filee = args.wordlist
     elif args.version:
-        print("\n\n",CYAN,"by Brahim Jarrar\n")
-        print(RED, " github", BLUE," : https://github.com/BrahimJarrar/\n")
-        print(GREEN, " CopyRight 2019\n\n")
+        print("\n\n",CYAN,"by Lencof\n")
+        print(RED, " github", BLUE," : https://github.com/Lencof/\n")
+        print(GREEN, " CopyRight 2021\n\n")
         exit()
     else:
         print(BLUE)
