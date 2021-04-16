@@ -7,6 +7,7 @@ removed the sys module.
 '''
 
 import os
+import sys 
 import wifi
 import random
 
