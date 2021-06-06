@@ -1,10 +1,9 @@
 # __Author__ __Lencof__
 # Wifi_Password Modified №2.py
 
-import os # use os
-import sys # use sys
-import wifi # use wifi
-import random # use random
+import os
+import wifi
+import random 
 
 x="Wifi" # your wifi
 password="dfbmkfdklbrftjhbiodfj940358231984mfdg" # your figures 
