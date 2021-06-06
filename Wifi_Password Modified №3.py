@@ -1,10 +1,8 @@
 # __Author__ __Lencof__
 # Wifi_Password Modified №3.py
 
-import os
-import sys
-import random
 import wifi
+import random
 import webbrowser
 
 Wifi="Telnet_130" # Your Wifi
