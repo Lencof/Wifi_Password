@@ -1,7 +1,6 @@
 # __author__ __Lencof__
 # Wifi_Password.py
 
-import os 
 import wifi 
 import random 
 
