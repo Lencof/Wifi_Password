@@ -6,7 +6,6 @@ added new class changed numbers
 removed the sys module.
 '''
 
-import os
 import wifi
 import random
 
