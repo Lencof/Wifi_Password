@@ -11,6 +11,6 @@ while x!=password:
   while len(x)!=len(password):
     y=random.randrange(10)
     x=str(x)+str(y)
-  print("Password:",x) # use function print()
+  print("Password:",x) 
   
   # It took a lot of time
