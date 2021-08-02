@@ -9,12 +9,11 @@ removed the sys module.
 import wifi
 import random
 
-# create class Wifi_Password():
 class Wifi_Password():
     pass
 
-Wifi="Telnet_130" # Your Wifi
-password="1234567890" # Random Password
+Wifi="Telnet_130" 
+password="1234567890" 
 while Wifi!=password:
     Wifi=""
     while len(Wifi)!=len(password):
