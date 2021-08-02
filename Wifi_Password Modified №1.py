@@ -4,8 +4,8 @@
 import wifi 
 import random 
 
-x="Wifi" # your wifi
-password="12345678910" # your figures 
+x="Wifi"
+password="12345678910"  
 while x!=password:
   x=""
   while len(x)!=len(password):
