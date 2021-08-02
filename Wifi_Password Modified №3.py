@@ -4,8 +4,8 @@
 import random
 import webbrowser
 
-Wifi="Telnet_130" # Your Wifi
-password="29121994598439058439058435894695846908549068895476895476896767548954906898" # Random Password
+Wifi="Telnet_130"
+password="29121994598439058439058435894695846908549068895476895476896767548954906898" 
 while Wifi!=password:
     Wifi=""
     while len(Wifi)!=len(password):
@@ -14,12 +14,12 @@ while Wifi!=password:
     print(Wifi)
 print("Password:",Wifi)
 
-# create class Web()
+
 class Web():
-    pass # an empty block
+    pass
 
-# create def Open_Github():  
+
 def Open_Github():
-    webbrowser.open_new_tab('https://github.com/Lencof') # My Github link
+    webbrowser.open_new_tab('https://github.com/Lencof') 
 
-Open_Github() # Close
+Open_Github()
