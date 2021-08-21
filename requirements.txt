@@ -1,5 +1,5 @@
 wifi=0.3.8
-pywifi
+pywifi=1.1.12
 random
 webbrowser
 pyinstaller
