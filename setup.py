@@ -6,7 +6,7 @@ with open("README.md", "r") as readme_file:
 requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2"]
 
 setup(
-    name="notebookc",
+    name="Wifi_Password",
     version="0.0.1",
     author="Lencof",
     author_email="Suleimenov.damir12@mail.ru",
