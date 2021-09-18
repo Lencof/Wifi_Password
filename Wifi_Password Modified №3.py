@@ -14,12 +14,3 @@ while Wifi!=password:
     print(Wifi)
 print("Password:",Wifi)
 
-
-class Web():
-    pass
-
-
-def Open_Github():
-    webbrowser.open_new_tab('https://github.com/Lencof') 
-
-Open_Github()
