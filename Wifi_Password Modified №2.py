@@ -2,7 +2,6 @@
 # Wifi_Password Modified №2.py
 
 import wifi
-import random 
 
 x="Wifi" 
 password="dfbmkfdklbrftjhbiodfj940358231984mfdg" 
