@@ -2,7 +2,7 @@
 # Wifi_Password Modified №3.py
 
 import random
-import webbrowser
+
 
 Wifi="Telnet_130"
 password="29121994598439058439058435894695846908549068895476895476896767548954906898" 
