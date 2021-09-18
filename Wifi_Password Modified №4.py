@@ -7,10 +7,6 @@ removed the sys module.
 '''
 
 import wifi
-import random
-
-class Wifi_Password():
-    pass
 
 Wifi="Telnet_130" 
 password="1234567890" 
