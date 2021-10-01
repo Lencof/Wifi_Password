@@ -104,7 +104,7 @@ def menu():
         filee = input("[*] pwds file: : ")
 
 
-    # thx
+   
     if os.path.exists(filee):
         if platform.system().startswith("Win" or "win"):
             os.system("cls")
