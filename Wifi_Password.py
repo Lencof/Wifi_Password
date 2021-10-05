@@ -5,8 +5,8 @@ import wifi
 import random 
 
 
-x="Telnet_130" # Your Wifi
-password="29121998" # Random Password
+x="Telnet_130" 
+password="29121998" 
 while x!=password:
     x=""
     while len(x)!=len(password):
