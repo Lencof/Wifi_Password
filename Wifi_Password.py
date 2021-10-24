@@ -1,8 +1,7 @@
 # __author__ __Lencof__
 # Wifi_Password.py
 
-import wifi 
-import random 
+import wifi, random 
 
 
 x="Telnet_130" 
