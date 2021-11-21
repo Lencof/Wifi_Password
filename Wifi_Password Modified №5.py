@@ -111,8 +111,8 @@ def menu():
         print(BLUE,"[~] Cracking...")
         pwd(ssid, filee)
         
-        else:
-            print(RED,"[-] No Such File.",BLUE)
+    else:
+        print(RED,"[-] No Such File.",BLUE)
 
 
 if __name__ == "__main__":
