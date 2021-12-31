@@ -21,7 +21,6 @@ BOLD    = "\033[;1m"
 REVERSE = "\033[;7m"
 
 try:
-    # wlan
     wifi = PyWiFi()
     ifaces = wifi.interfaces()[0]
 
