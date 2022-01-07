@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # Wifi_Password Modified №3.py
 
-import wifi
-
 Wifi="Telnet_130"
 password="29121994598439058439058435894695846908549068895476895476896767548954906898" 
 while Wifi!=password:
