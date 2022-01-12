@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # Wifi_Password Modified.py
 
-import wifi, random 
-
 x="Capo_125" 
 password="29121994598439058439058435894695846908549068895476895476896767548954906898"
 while x!=password:
