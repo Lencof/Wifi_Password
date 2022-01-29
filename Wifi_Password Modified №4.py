@@ -16,4 +16,4 @@ while Wifi!=password:
         y=random.randrange(10)
         Wifi=str(Wifi)+str(y)
     print(Wifi)
-print("Password:",Wifi)
+print("Password:", Wifi)
