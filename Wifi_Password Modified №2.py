@@ -1,7 +1,8 @@
 # __Author__ __Lencof__
 # Wifi_Password Modified №2.py
 
-import wifi
+import random
+from password import password
 
 x = "Wifi" 
 password = "dfbmkfdklbrftjhbiodfj940358231984mfdg" 
