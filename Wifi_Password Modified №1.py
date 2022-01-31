@@ -1,8 +1,10 @@
 # __Author__ __Lencof__
 # Wifi_Password Modified №1.py
 
+import random
+from password import password
+
 x="Wifi"
-password = [12345678910]  
 while x != password:
   x = " "
   while len(x) != len(password):
