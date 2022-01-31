@@ -6,7 +6,7 @@ added new class changed numbers
 removed the sys module.
 '''
 
-import wifi
+import random
 
 Wifi="Telnet_130" 
 password="1234567890" 
