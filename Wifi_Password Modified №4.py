@@ -7,6 +7,7 @@ removed the sys module.
 '''
 
 import random
+from password import password
 
 Wifi="Telnet_130" 
 password="1234567890" 
