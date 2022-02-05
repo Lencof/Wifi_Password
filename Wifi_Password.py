@@ -13,5 +13,3 @@ while x!=password:
         x=str(x)+str(y)
     print(x)
 print("Password:",x) 
-
-# It took a lot of time 
