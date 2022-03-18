@@ -6,7 +6,7 @@ from password import password
 
 x="Wifi"
 while x != password:
-  x = " "
+  x = ""
   while len(x) != len(password):
     y = random.randrange(10)
     x = str(x) + str(y)
