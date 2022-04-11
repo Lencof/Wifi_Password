@@ -2,7 +2,7 @@
 # Wifi_Password Modified №5.py
 
 import re, time, argparse, platform
-import os.path
+import os
 
 try:
     import pywifi
