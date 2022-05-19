@@ -1,7 +1,7 @@
 # __Author__ __Lencof__
 # Wifi_Password Modified №5.py
 
-import re, time, argparse, platform
+import time, argparse, platform
 
 try:
     import pywifi
