@@ -1,7 +1,6 @@
 # __Author__ __Lencof__
 # Wifi_Password Modified.py
 
-import random
 from password import password
 
 x="Capo_125" 
