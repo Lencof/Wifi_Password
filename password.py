@@ -1,4 +1,4 @@
 # __Author__ __Lencof__
 # password.py 
 
-password="1234567890" 
+password="1234567890x" 
